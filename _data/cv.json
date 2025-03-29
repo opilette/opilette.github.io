@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Olivier Pilette, MA",
+    "email": "olivier.pilette@uga.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://opilette.github.io",
+    "summary": "Archaeologust, PhD student in Anthropology at University of Georgia.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Athens",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=z5j6s2QAAAAJ&hl=en"
+        "url": "https://scholar.google.fr/citations?user=z5j6s2QAAAAJ&hl=fr&oi=ao"
       },
       {
         "network": "ORCID",
