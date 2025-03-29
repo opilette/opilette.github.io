@@ -25,11 +25,11 @@ author:
   avatar           : "profile2.png"
   name             : "Olivier Pilette"
   pronouns         : # example: "she/her"  
-  bio              : "Archaeologist, PhD student in anthroplogy"
+  bio              : "Archaeologist, PhD student in anthropology"
   location         : "Athens, GA"
   employer         : "University of Georgia"
   uri              : # URL
-  email            : "olivier.pilette@uga.du" 
+  email            : "olivier.pilette@uga.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=z5j6s2QAAAAJ&hl=en"
@@ -68,7 +68,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   thesis:
-    title: 'Thesis
+    title: 'Thesis'
   books:
     title: 'Books'
   manuscripts:
