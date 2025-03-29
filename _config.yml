@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Olivier Pilette"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Archaeologist, PhD student in anthroplogy"
+  location         : "Athens, GA"
+  employer         : "University of Georgia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "olivier.pilette@uga.du" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=z5j6s2QAAAAJ&hl=en"
