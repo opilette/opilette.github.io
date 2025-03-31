@@ -54,7 +54,9 @@
       </p>
     {% endif %}
 
-    {# --- Custom "Online Companion" Button Insertion --- #}
+    {% comment %}
+     --- Custom "Online Companion" Button Insertion ---
+     {% endcomment %}
     {% if post.online_companion %}
       <p>
         <a href="{{ post.online_companion }}" style="background: #0073e6; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none;">
@@ -62,8 +64,7 @@
         </a>
       </p>
     {% endif %}
-    {# ------------------------------------------------- #}
-
+   
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl and post.slidesurl %}
