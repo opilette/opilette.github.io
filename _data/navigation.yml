@@ -25,6 +25,9 @@ main:
         
   - title: "Blog"
     url: /year-archive/
+
+  - title "AAQ"
+    url: http://www.archeologie.qc.ca/
         
   # - title: "CV"
   #   url: /cv-json/
