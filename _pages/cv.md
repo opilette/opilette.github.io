@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [English CV ](/files/PILETTE_Olivier_CV_2025-04-11_eng.pdf)\
-[CV francophone](/files/PILETTE_Olivier_CV_2025-04-11_fr.pdf)\
+[CV francophone](/files/PILETTE_Olivier_CV_2025-03-27_fr.pdf)\
 
 Education
 ======
