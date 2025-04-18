@@ -1,8 +1,8 @@
 ---
 title: "AAQ"
 permalink: /aaq/
+layout: archive
 author_profile: true
-layout: single
 ---
 
 Welcome to the AAQ page.
