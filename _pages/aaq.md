@@ -2,7 +2,7 @@
 title: "AAQ"
 permalink: /aaq/
 author_profile: true
-layout: default
+layout: single
 ---
 
 Welcome to the AAQ page.
