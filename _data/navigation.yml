@@ -20,7 +20,7 @@ main:
  #   url: /portfolio/
   - title: "Blog"
     url: /year-archive/
-  - title "AAQ"
+  - title: "AAQ"
     url: /aaq/
   # - title: "CV"
   #   url: /cv-json/
