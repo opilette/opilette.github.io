@@ -27,7 +27,7 @@ main:
     url: /year-archive/
 
   - title "AAQ"
-    url: http://www.archeologie.qc.ca/
+    url: "/aaq/"
         
   # - title: "CV"
   #   url: /cv-json/
