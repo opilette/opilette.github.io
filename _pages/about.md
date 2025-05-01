@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website. It is currently under construction.
+I am a doctoral student specializing in anthropological archaeology, with a focus on the socio-cultural interactions and complexities of ancient populations in eastern North America. My primary supervisor is Professor Jennifer Birch.
+
+For my master’s degree in archaeology, I conducted a comparative macroscopic analysis of lithic (stone) raw materials from 79 archaeological sites in the Ottawa River Valley, the Laurentians, and the Upper Mauricie regions.
